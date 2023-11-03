@@ -71,3 +71,5 @@ if __name__ == "__main__":
     print("Basis vectors of the nullspace:")
     for basis_vector in nullspace_basis_vectors:
         print([str(num) for num in basis_vector])
+
+print("done")
